@@ -1,0 +1,229 @@
+.container{
+  .header-a{
+    .img-a{
+      margin-top: 100px!important;
+    }
+    .input-a{
+      width: 300px!important;
+      padding: 7px!important;
+      border-radius: 1px!important;
+    }
+    .card-v{
+      display: flex!important;
+      flex-direction: row!important;
+      margin-left: 700px!important;
+      margin-top: -50px!important;
+      .button-a{
+        width: 50px!important;
+        height: 40px!important;
+        background-color: #033162;
+        padding: 7px!important;
+      }
+    }
+    width: 100% !important;
+    height: auto!important;
+    .nav-a{
+      width: 100% !important;
+      height: 70px!important;
+      display: flex!important;
+      flex-direction: row!important;
+      .h5-a{
+        color: white!important;
+      }
+      .h6-a{
+        margin-left: 400px!important;
+      }
+
+
+    }
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.container{
+  .row{
+    .main{
+      .section-c{
+        margin-top: 170px!important;
+        margin-left: 70px!important;
+        width: 100% !important;
+        height: auto;
+        display: flex;
+        flex-direction: row;
+        .card-y{
+          width: 100% !important;
+        }
+      }
+      .section-k{
+        display: flex;
+        flex-direction: row;
+      }
+      .img{
+        width: 90px!important;
+        height: 90px!important;
+        border-radius: 50%!important;
+      }
+      .carousel-indicators>li{
+        width: 20px!important;
+        height: 20px!important;
+        border-radius: 50% !important;
+        background-color: #071e80 !important;
+      }
+      .carousel-indicators{
+        margin-top: 100px !important;
+        margin-left: -340px!important;
+      }
+      .carousel-inner{
+        width: 300px!important;
+        height: 300px!important;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        text-align: center;
+        margin-top: 100px;
+        margin-left: -180px;
+      }
+      .form-control{
+        width: 400px !important;
+      }
+      .d1{
+        margin-left: -100px;
+        margin-top: 300px;
+      }
+      .section-b{
+        .card-s{
+          background: linear-gradient(0, #00FDEB 5%, transparent)!important;
+
+        }
+        .img-b{
+          width: 33% !important;
+          height: 100% !important;
+        }
+      }
+      //border: 1px solid black;
+      .section-a{
+        .card-d{
+
+
+        }
+        .card-f{
+          .h4-v{
+            margin-left: 70px!important;
+          }
+          .h4-l{
+            margin-left: 95px!important;
+          }
+          .h4-k{
+            margin-left: 40px!important;
+          }
+          .img-g{
+            width: 50% !important;
+            margin: 0 auto;
+            margin-left: 80px!important;
+            margin-top: 60px!important;
+          }
+          .img-c{
+            width: 50% !important;
+            margin: 0 auto;
+            margin-left: 80px!important;
+            margin-top: 80px!important;
+          }
+          width: 31% !important;
+          border: 3px solid #d9d8d8;
+          height: 300px!important;
+        }
+        height: 300px!important;
+        background-color: #ffffff;
+        display: flex;
+        flex-direction: row;
+        .card-a{
+          .img-a{
+            width: 100% !important;
+            height: 40% !important;
+          }
+          width: 23% !important;
+          height: 100%;
+          background-color: #ffffff;
+        }
+      }
+      width: 88% !important;
+      height: 2200px!important;
+      margin: 0 auto!important;
+      background-color: #ffffff !important;
+      margin-top: 200px!important;
+      .card-q{
+        height: 60px!important;
+        display: flex;
+        flex-direction: row;
+        .h5-q{
+          color: blue;
+        }
+        .h5-w{
+          margin-left: 300px!important;
+        }
+      }
+    }
+  }
+}
+body{
+  background: {
+    image: url("images/header_bg.jpg");
+    size: 100%;
+    position: center top;
+    repeat: no-repeat;
+  }
+}
+.pt-5{
+  background: {
+    image: url("images/footer_bg.png");
+    size: 100%;
+    position: center top;
+    repeat: no-repeat;
+  }
+}
